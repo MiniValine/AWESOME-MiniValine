@@ -18,6 +18,8 @@ More «MiniValine» information [here](https://github.com/MiniValine/MiniValine)
 
 * [hexo-next-minivaline](https://github.com/MiniValine/hexo-next-minivaline): A MiniValine plugin for Hexo NexT theme. 
 
+## Themes
+
 ### Themes Using MiniValine
 
 * [NexT](https://github.com/theme-next/hexo-theme-next): Elegant and powerful theme for Hexo.  [https://theme-next.org](https://theme-next.org)
