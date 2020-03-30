@@ -14,6 +14,8 @@ More «MiniValine» information [here](https://github.com/MiniValine/MiniValine)
 
 * [alus](https://github.com/MiniValine/alus): MiniValine's default emoji.
 
+* [minivaline-i18n](https://github.com/MiniValine/minivaline-i18n): [Add or improve translation](https://crowdin.com/project/minivaline) in few seconds.
+
 ### Theme Plugins
 
 * [hexo-next-minivaline](https://github.com/MiniValine/hexo-next-minivaline): A MiniValine plugin for Hexo NexT theme. 
