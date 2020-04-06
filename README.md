@@ -25,7 +25,8 @@ More «MiniValine» information [here](https://github.com/MiniValine/MiniValine)
 ### Themes Using MiniValine
 
 * [NexT](https://github.com/theme-next/hexo-theme-next): Elegant and powerful theme for Hexo. 
-* [stun](https://github.com/liuyib/hexo-theme-stun): A beautiful theme for Hexo
+* [Stun](https://github.com/liuyib/hexo-theme-stun): A beautiful theme for Hexo.
+* [Matery](https://github.com/blinkfox/hexo-theme-matery): A beautiful hexo blog theme with material design and responsive design.
 
 ## License
 
