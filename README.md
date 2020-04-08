@@ -24,11 +24,13 @@ More «MiniValine» information [here](https://github.com/MiniValine/MiniValine)
 
 ## Themes
 
+
 ### Themes Using MiniValine
 
 * [NexT](https://github.com/theme-next/hexo-theme-next): Elegant and powerful theme for Hexo. 
 * [Stun](https://github.com/liuyib/hexo-theme-stun): A beautiful theme for Hexo.
 * [Matery](https://github.com/blinkfox/hexo-theme-matery): A beautiful hexo blog theme with material design and responsive design.
+* [Maupassant](https://github.com/tufu9441/maupassant-hexo): A simple Hexo template with great performance on different devices, ported from a Typecho theme by Cho, forked and modified from icylogic.
 
 ## License
 
