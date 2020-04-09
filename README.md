@@ -32,6 +32,7 @@ More «MiniValine» information [here](https://github.com/MiniValine/MiniValine)
 * [Matery](https://github.com/blinkfox/hexo-theme-matery): A beautiful hexo blog theme with material design and responsive design.
 * [Maupassant](https://github.com/tufu9441/maupassant-hexo): A simple Hexo template with great performance on different devices, ported from a Typecho theme by Cho, forked and modified from icylogic.
 * [Volantis](https://github.com/xaoxuu/hexo-theme-volantis): A Wonderful Theme for Hexo.
+* [Yun](https://github.com/YunYouJun/hexo-theme-yun): A fast & light & lovely theme for Hexo.
 
 ## License
 
