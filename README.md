@@ -33,6 +33,7 @@ More «MiniValine» information [here](https://github.com/MiniValine/MiniValine)
 * [Maupassant](https://github.com/tufu9441/maupassant-hexo): A simple Hexo template with great performance on different devices, ported from a Typecho theme by Cho, forked and modified from icylogic.
 * [Volantis](https://github.com/xaoxuu/hexo-theme-volantis): A Wonderful Theme for Hexo.
 * [Yun](https://github.com/YunYouJun/hexo-theme-yun): A fast & light & lovely theme for Hexo.
+* [Ayer](https://github.com/Shen-Yu/hexo-theme-ayer): A clean and elegant theme for Hexo, also fast, powerful and responsive.
 
 ## License
 
