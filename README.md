@@ -16,6 +16,8 @@ More «MiniValine» information [here](https://github.com/MiniValine/MiniValine)
 
 * [alus](https://github.com/MiniValine/alus): MiniValine's default emoji.
 
+* [Bilibilis](https://github.com/MiniValine/Bilibilis): Bilibili emoji.
+
 * [minivaline-i18n](https://github.com/MiniValine/minivaline-i18n): [Add or improve translation](https://crowdin.com/project/minivaline) in few seconds.
 
 * [Valine-Admin](https://github.com/DesertsP/Valine-Admin): Valine Admin is an extension and enhancement of the Valine series comment system.
