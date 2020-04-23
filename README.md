@@ -8,6 +8,8 @@
 
 More «MiniValine» information [here](https://github.com/MiniValine/MiniValine).
 
+## **[MiniValine FAQs](https://github.com/MiniValine/MiniValine/blob/master/.github/FAQ.md)**
+
 ## Plugins
 
 ### MiniValine Plugins
