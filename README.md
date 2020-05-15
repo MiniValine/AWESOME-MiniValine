@@ -14,9 +14,17 @@ More «MiniValine» information [here](https://github.com/MiniValine/MiniValine)
 
 ### MiniValine Plugins
 
-* [alus](https://github.com/MiniValine/alus): MiniValine's default emoji.
+* [alus](https://github.com/MiniValine/alus): aru emoji.
 
 * [Bilibilis](https://github.com/MiniValine/Bilibilis): Bilibili emoji.
+
+* [weibo](https://github.com/MiniValine/weibo): weibo emoji.
+
+* [tieba](https://github.com/MiniValine/tieba): tieba emoji.
+
+* [qq](https://github.com/MiniValine/qq): qq emoji.
+
+* [twemoji](https://github.com/MiniValine/twemoji): twemoji.
 
 * [minivaline-i18n](https://github.com/MiniValine/minivaline-i18n): [Add or improve translation](https://crowdin.com/project/minivaline) in few seconds.
 
