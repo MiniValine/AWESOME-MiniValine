@@ -12,7 +12,7 @@ More «MiniValine» information [here](https://github.com/MiniValine/MiniValine)
 
 ## Plugins
 
-### MiniValine Plugins
+### MiniValine Emoji
 
 * [alus](https://github.com/MiniValine/alus): aru emoji.
 
@@ -25,6 +25,10 @@ More «MiniValine» information [here](https://github.com/MiniValine/MiniValine)
 * [qq](https://github.com/MiniValine/qq): qq emoji.
 
 * [twemoji](https://github.com/MiniValine/twemoji): twemoji.
+
+* [Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic): MORE Emoji.
+
+### MiniValine Plugins
 
 * [minivaline-counter](https://github.com/MiniValine/minivaline-counter): minivaline's counter plugin.
 
