@@ -52,6 +52,7 @@ More «MiniValine» information [here](https://github.com/MiniValine/MiniValine)
 * [Volantis](https://github.com/xaoxuu/hexo-theme-volantis): A Wonderful Theme for Hexo.
 * [Yun](https://github.com/YunYouJun/hexo-theme-yun): A fast & light & lovely theme for Hexo.
 * [Ayer](https://github.com/Shen-Yu/hexo-theme-ayer): A clean and elegant theme for Hexo, also fast, powerful and responsive.
+* [Cards](https://github.com/ChrAlpha/hexo-theme-cards) 一款 单栏样式 & 卡片式设计 的现代 Hexo 主题。
 
 ## License
 
