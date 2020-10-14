@@ -12,25 +12,11 @@ More «MiniValine» information [here](https://github.com/MiniValine/MiniValine)
 
 ## Plugins
 
-### MiniValine Emoji
-
-* [alus](https://github.com/MiniValine/alus): aru emoji.
-
-* [Bilibilis](https://github.com/MiniValine/Bilibilis): Bilibili emoji.
-
-* [weibo](https://github.com/MiniValine/weibo): weibo emoji.
-
-* [tieba](https://github.com/MiniValine/tieba): tieba emoji.
-
-* [qq](https://github.com/MiniValine/qq): qq emoji.
-
-* [twemoji](https://github.com/MiniValine/twemoji): twemoji.
+### Emoji
 
 * [Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic): MORE Emoji.
 
 ### MiniValine Plugins
-
-* [minivaline-counter](https://github.com/MiniValine/minivaline-counter): minivaline's counter plugin.
 
 * [minivaline-i18n](https://github.com/MiniValine/minivaline-i18n): [Add or improve translation](https://crowdin.com/project/minivaline) in few seconds.
 
