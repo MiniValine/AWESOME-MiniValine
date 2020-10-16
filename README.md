@@ -40,6 +40,10 @@ More «MiniValine» information [here](https://github.com/MiniValine/MiniValine)
 * [Ayer](https://github.com/Shen-Yu/hexo-theme-ayer): A clean and elegant theme for Hexo, also fast, powerful and responsive.
 * [Cards](https://github.com/ChrAlpha/hexo-theme-cards) 一款 单栏样式 & 卡片式设计 的现代 Hexo 主题。
 
+### Modify
+
+* [shoka](https://github.com/amehime/hexo-theme-shoka) [amehime/MiniValine](https://github.com/amehime/MiniValine)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
