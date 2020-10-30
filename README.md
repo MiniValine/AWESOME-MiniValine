@@ -1,35 +1,52 @@
 # Awesome MiniValine
 
-[![](https://cdn.jsdelivr.net/gh/MiniValine/MiniValine@master/.github/img/awesome.svg)](https://github.com/sindresorhus/awesome)
+[![](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat2.svg?sanitize=true)](https://github.com/sindresorhus/awesome)
 
-## Live Preview
+## Live Preview & Info
 
-* [MiniValine.github.io](https://minivaline.github.io)
+* Demo [MiniValine.js.org](https://minivaline.js.org)
 
-More «MiniValine» information [here](https://github.com/MiniValine/MiniValine).
++ More «MiniValine» information [here](https://minivaline.js.org/docs/).
 
-## **[MiniValine FAQs](https://github.com/MiniValine/MiniValine/blob/master/.github/FAQ.md)**
++ More «MiniValine Awesome» information [here](https://minivaline.js.org/docs/en/#/Awesome)
 
-## Plugins
+
+
+## Make MiniValine better  
+
+### Language
+
++ [minivaline-i18n](https://github.com/MiniValine/minivaline-i18n): [Add or improve translation](https://crowdin.com/project/minivaline) in few seconds.
+
+
+### Admin
+
+* [Valine-Admin](https://github.com/DesertsP/Valine-Admin): Valine Admin is an extension and enhancement of the Valine series comment system.
+
+
+### Safe
+
++ [CF-LC](https://github.com/MiniValine/CF-LC) Use cloudflare workers to hide LC-key and LC-ID.
+
 
 ### Emoji
 
 * [Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic): MORE Emoji.
 
-### MiniValine Plugins
 
-* [minivaline-i18n](https://github.com/MiniValine/minivaline-i18n): [Add or improve translation](https://crowdin.com/project/minivaline) in few seconds.
+### Upload Image
 
-* [Valine-Admin](https://github.com/DesertsP/Valine-Admin): Valine Admin is an extension and enhancement of the Valine series comment system.
-
-### Theme Plugins
-
-* [hexo-next-minivaline](https://github.com/MiniValine/hexo-next-minivaline): A MiniValine plugin for Hexo NexT theme. 
-
-## Themes
++ [lsky-pro](https://github.com/wisp-x/lsky-pro): Your photo album on the cloud.
 
 
-### Themes Using MiniValine
+## Plugins of MiniValine
+
+### Hexo
+
+* [hexo-next-minivaline](https://github.com/MiniValine/hexo-next-minivaline): A MiniValine plugin for [Hexo](https://github.com/hexojs/hexo) [NexT](https://github.com/next-theme/hexo-theme-next) theme. 
+
+
+#### Themes Using MiniValine
 
 * [NexT](https://github.com/theme-next/hexo-theme-next): Elegant and powerful theme for Hexo. 
 * [Stun](https://github.com/liuyib/hexo-theme-stun): A beautiful theme for Hexo.
@@ -40,10 +57,43 @@ More «MiniValine» information [here](https://github.com/MiniValine/MiniValine)
 * [Ayer](https://github.com/Shen-Yu/hexo-theme-ayer): A clean and elegant theme for Hexo, also fast, powerful and responsive.
 * [Cards](https://github.com/ChrAlpha/hexo-theme-cards) 一款 单栏样式 & 卡片式设计 的现代 Hexo 主题。
 
-### Modify
+
+
+### Docsify
+
+* [docsify-minivaline](https://github.com/MiniValine/hexo-next-minivaline) A MiniValine plugin for [Docsify](https://github.com/docsifyjs/docsify/) . 
+
+
+
+### Gitbook
+
++ TODO
+
+
+### Vuepress
+
++ TODO
+
+
+
+
+## Modify
 
 * [shoka](https://github.com/amehime/hexo-theme-shoka) [amehime/MiniValine](https://github.com/amehime/MiniValine)
 
+
+
+## Awesome Emoji
+
+> Make sure there are no copyright disputes, follow [this format](https://minivaline.js.org/docs/en/#/Options?id=how-to-customize-emoticons) and share your masterpiece with us, best to include a brief description and License
+
++ TO Share
+
+
+
 ## License
 
-[![CC0](https://cdn.jsdelivr.net/gh/MiniValine/MiniValine@master/.github/img/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+
