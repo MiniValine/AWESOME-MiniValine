@@ -46,4 +46,4 @@ More «MiniValine» information [here](https://github.com/MiniValine/MiniValine)
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://cdn.jsdelivr.net/gh/MiniValine/MiniValine@master/.github/img/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
