@@ -23,12 +23,6 @@
 
 * [Valine-Admin](https://github.com/DesertsP/Valine-Admin): Valine Admin is an extension and enhancement of the Valine series comment system.
 
-
-### Safe
-
-+ [CF-LC](https://github.com/MiniValine/CF-LC) Use cloudflare workers to hide LC-key and LC-ID.
-
-
 ### Emoji
 
 * [Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic): MORE Emoji.
