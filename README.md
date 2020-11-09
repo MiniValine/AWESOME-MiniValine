@@ -1,6 +1,6 @@
 # Awesome MiniValine
 
-[![](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat2.svg?sanitize=true)](https://github.com/sindresorhus/awesome)
+[![](https://cdn.jsdelivr.net/gh/MiniValine/MiniValine@master/.github/img/awesome.svg?sanitize=true)](https://github.com/sindresorhus/awesome)
 
 ## Live Preview & Info
 
