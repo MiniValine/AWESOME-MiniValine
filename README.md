@@ -19,7 +19,11 @@
 + [minivaline-i18n](https://github.com/MiniValine/minivaline-i18n): [Add or improve translation](https://crowdin.com/project/minivaline) in few seconds.
 
 
-### Admin
+### BackEnd
+
+* [waline](https://github.com/lizheming/waline): With backend Valine.
+
+* [CF-LC](https://github.com/MiniValine/MiniValine/tree/master/CF-LC): 使用 Cloudflare Workers 隐藏LC-Key和LC-Id。
 
 * [Valine-Admin](https://github.com/DesertsP/Valine-Admin): Valine Admin is an extension and enhancement of the Valine series comment system.
 
