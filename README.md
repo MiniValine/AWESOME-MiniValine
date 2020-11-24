@@ -32,7 +32,7 @@
 * [Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic): MORE Emoji.
 
 
-### 客户端
+### Comment management client
 
 * [Valine-Android](https://github.com/yinhanlei/Valine-Android)
 
