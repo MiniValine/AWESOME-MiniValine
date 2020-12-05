@@ -65,7 +65,7 @@
 
 ### Docsify
 
-* [docsify-minivaline](https://github.com/MiniValine/hexo-next-minivaline) A MiniValine plugin for [Docsify](https://github.com/docsifyjs/docsify/) . 
+* [docsify-minivaline](https://github.com/MiniValine/docsify-minivaline) A MiniValine plugin for [Docsify](https://github.com/docsifyjs/docsify/) . 
 
 
 
