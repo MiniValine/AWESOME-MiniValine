@@ -69,35 +69,19 @@
 
 
 
-### Gitbook
-
-+ TODO
-
-
-### Vuepress
-
-+ TODO
-
-
-
-
 ## Modify
 
 * [shoka](https://github.com/amehime/hexo-theme-shoka) [amehime/MiniValine](https://github.com/amehime/MiniValine)
 
 
 
-## Awesome Emoji
+## Recommended project
 
-> Make sure there are no copyright disputes, follow [this format](https://minivaline.js.org/docs/en/#/Options?id=how-to-customize-emoticons) and share your masterpiece with us, best to include a brief description and License
-
-+ TO Share
-
-
+* [twikoo](https://github.com/imaegoo/twikoo) :  A simple, safe, free comment system.
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://cdn.jsdelivr.net/gh/MiniValine/MiniValine@master/.github/img/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
 
