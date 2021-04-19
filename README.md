@@ -18,14 +18,13 @@
 
 + [minivaline-i18n](https://github.com/MiniValine/minivaline-i18n): [Add or improve translation](https://crowdin.com/project/minivaline) in few seconds.
 
+### MiniValine v6 Dependencies
 
-### BackEnd
+* [OHHHO Kernel](https://github.com/MHuiG/ohhho): A Trial Program For MiniValine.
 
-* [waline](https://github.com/lizheming/waline): With backend Valine.
+* [MiniValine-Admin-CFWorker](https://github.com/MiniValine/MiniValine-Admin-CFWorker): Admin For MiniValine Powered by Cloudflare Based on OHHHO Kernel.
 
-* [CF-LC](https://github.com/MiniValine/MiniValine/tree/master/CF-LC): 使用 Cloudflare Workers 隐藏LC-Key和LC-Id。
-
-* [Valine-Admin](https://github.com/DesertsP/Valine-Admin): Valine Admin is an extension and enhancement of the Valine series comment system.
+* [MiniValine-Admin-API-Vercel](https://github.com/MiniValine/MiniValine-Admin-API-Vercel): API For MiniValine Powered by Vercel.
 
 ### Emoji
 
@@ -42,6 +41,13 @@
 
 + [lsky-pro](https://github.com/wisp-x/lsky-pro): Your photo album on the cloud.
 
+### BackEnd v5
+
+* [waline](https://github.com/lizheming/waline): With backend Valine.
+
+* [CF-LC](https://github.com/MiniValine/MiniValine/tree/5/CF-LC): 使用 Cloudflare Workers 隐藏LC-Key和LC-Id。
+
+* [Valine-Admin](https://github.com/DesertsP/Valine-Admin): Valine Admin is an extension and enhancement of the Valine series comment system.
 
 ## Plugins of MiniValine
 
