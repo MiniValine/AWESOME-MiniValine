@@ -8,8 +8,6 @@
 
 + More «MiniValine» information [here](https://minivaline.js.org/docs/).
 
-+ More «MiniValine Awesome» information [here](https://minivaline.js.org/docs/en/#/Awesome)
-
 
 
 ## Make MiniValine better  
